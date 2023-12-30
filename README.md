@@ -21,7 +21,7 @@ To implement univariate Linear Regression to fit a straight line using least squ
 6.	Obtain the straight line equation Y=mX+b and plot the scatterplot.
 ## PROGRAM :
 ```
-# Program to QR decomposition using the Gram-Schmidt method
+# Program to Univariate Linear Regression to fit a straight line using least squares.
 # Developed by: ALIYA SHEEMA
 # RegisterNumber: 23005529
 
